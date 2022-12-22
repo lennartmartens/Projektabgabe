@@ -3,6 +3,5 @@ numpy
 tensorflow
 seaborn
 scikit-learn
-matplotlib.pyplot
-plotly.graph_objs
-plotly.offline
+matplotlib
+plotly
