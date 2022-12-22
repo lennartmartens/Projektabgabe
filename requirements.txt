@@ -2,7 +2,7 @@ pandas
 numpy
 tensorflow
 seaborn
-sk-learn
+scikit-learn
 matplotlib.pyplot
 plotly.graph_objs
 plotly.offline
